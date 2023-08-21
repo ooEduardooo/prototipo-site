@@ -1,0 +1,20 @@
+ 
+ @charset UTF-8;
+ h1{
+    font-family: Arial;
+    font-size: 30pt;
+    color:yellow;
+    text-shadow: 2px 2px 2px red;
+     }
+p {
+    text-align :justify;
+    text-indent: 10px;
+}
+body {
+    background-image:url();
+}
+
+
+figure.foto-legenda {
+    border: 8px solid red;
+}
